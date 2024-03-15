@@ -1,8 +1,5 @@
 # Especificação do Projeto
 
-O projeto consistirá no desenvolvimento de uma aplicação web que permita aos usuários receberem notícias personalizadas de várias fontes da web. O aplicativo utilizará um crawler para coletar notícias de diferentes sites de notícias, agregando e organizando as informações de acordo com as preferências e interesses de cada usuário.
-
-
 ## Perfis de Usuários
 
 <table>
